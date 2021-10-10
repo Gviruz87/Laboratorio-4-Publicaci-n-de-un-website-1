@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<title>Glosario  de  Terminos  y Definiciones de Internet, Web y HTML </title>
+</head>
+ <body><h1> Glosario </h1> 
+
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfolmc5k5FKo4WeZvTNV4bIZhyt2V80XFHew&usqp=CAU" alt= "Glosario"> 
+
+ <h2>
+Terminos y Definiciones 
+</h2>
+
+ <h3> Body </h3>
+
+
+
+
+
+<p> Define el contenido principal del documento que sera directamente visible en su pagina web. Contiene contenido de texto, encabezados, parrafos, imagenes, tablas, enlaces, videos, etc.
+
+La etiqueta del cuerpo siempre se coloca dentro de la etiqueta y debe colocarse despues de la etiqueta. Esta etiqueta es necesaria para todos los documentos HTML y debe usarse solo una vez en todo el documento HTML. </p>
+
+ <h3> XHTML </h3>  
+ 
+
+<p> Es un acronimo de Extensible HyperText Markup Language. Es un subconjunto del lenguaje de marcado estandar generalizado (SGML), que es un sistema para organizar y definir partes de un documento, como titulos, encabezados, parrafos o imagenes, a traves del marcado, tambien conocido como etiquetado. XHTML es el lenguaje mas utilizado para crear documentos en la World Wide Web y se considera un reemplazo de HTML, el lenguaje de marcado web original.
+</p> 
+
+
+<h3> ARPANET </h3>  
+ 
+
+ 
+Red informatica experimental que fue la precursora de Internet. La Agencia de Proyectos de Investigacion Avanzada (ARPA), un brazo del Departamento de Defensa de los Estados Unidos, financio el desarrollo de la Red de la Agencia de Proyectos de Investigacion Avanzada (ARPANET) a fines de la decada de 1960. Su proposito inicial era conectar computadoras en instituciones de investigacion financiadas por el Pentagono a traves de lineas telefonicas.<p></p>
+
+
+ <h3> Javascript </h3> 
+
+
+<p> 
+Es un lenguaje de programacion comunmente utilizado en el desarrollo web. Fue desarrollado originalmente por Netscape como un medio para agregar elementos dinamicos e interactivos a los sitios web. Si bien JavaScript esta influenciado por Java, la sintaxis es mas similar a C y se basa en ECMAScript, un lenguaje de programacion desarrollado por Sun Microsystems.
+</p>
+
+
+ <h3> Internet </h3> 
+ 
+
+<p> 
+Una red de comunicaciones electronicas que conecta redes informaticas e instalaciones informaticas organizativas en todo el mundo, que se utiliza con la excepcion de cuando se utiliza atributivamente
+</p> 
+
+
+ <h3> Computadora </h3>  
+
+
+<p>
+Una computadora es una maquina que puede almacenar y procesar informacion. La mayoria de las computadoras dependen de un sistema binario que usa dos variables, 0 y 1, para completar tareas como almacenar datos, calcular algoritmos y mostrar informacion..
+</p>
+
+
+ <h3> Pagina Web </h3> 
+
+
+<p>
+Una pagina web (Web Page) es un documento de hipertexto proporcionado por un sitio web y que se muestra a un usuario en un navegador web. Un sitio web generalmente consta de muchas paginas web enlazadas entre si de manera coherente. El nombre "pagina web" es una metafora de paginas de papel unidas en un libro.
+</p> 
+
+
+ <h3> Keyword </h3> 
+ 
+
+<p> 
+Keyword son las palabras y frases que las personas escriben en los motores de busqueda para encontrar lo que buscan. Por ejemplo, si desea comprar una chaqueta nueva, puede escribir algo como "chaqueta de cuero para hombre" en Google. Aunque esa frase consta de mas de una palabra, sigue siendo una palabra clave..
+</p> 
+
+
+ <h3> Angle brackets </h3> 
+
+
+<p>
+Angle brackets que tambien se denomina "signo de desigualdad" por su uso en matematicas, es una especie de intercalacion lateral que se puede utilizar para incluir etiquetas o fragmentos de codigo. Este conjunto de caracteres ASCII es comun en el dise~o web y otros tipos de proyectos de codificacion.
+</p>
+
+
+ <h3> Javascript </h3>  
+
+
+<p> 
+El JavaScript (JS) es un lenguaje de programacion que se utiliza para hacer cosas complejas en una pagina web.
+El codigo JavasCript puede insertarse dentro del propio HTML de una pagina o guardarse externamente en archivos con extension .js.
+</p>
+
+
+
+<i></i><br>
+
+<i> Johnatan L. Ortiz Diaz </i><br>
+
+<p> <i> Curso ITP2350 </i> </p><p> <a href="mailto:jortiz6127@live.edpuniversity.edu"> jortiz6127@live.edpuniversity.edu</a> </p> 
